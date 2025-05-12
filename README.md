@@ -1,4 +1,4 @@
-# SmartStore Project
+# Blogging Extravaganza Project
 
 A full-stack web application built with a **Java Spring Boot backend** and a **Next.js frontend**, designed using *
 *Clean Architecture** principles and enhanced with **Generative AI-assisted development**.
